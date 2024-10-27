@@ -1,0 +1,2823 @@
+{
+  "lastUpdated": "2024-10-27T02:23:42.748Z",
+  "results": [
+    {
+      "imagePath": "/guides/SpenLC/Belles-Rock-S31.png",
+      "numberOfResults": 22,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Bridge-Too-Far-S31.png",
+      "numberOfResults": 20,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000053,
+          "brawlerName": "Lola",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Canal-Grande-S31.png",
+      "numberOfResults": 24,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000034,
+          "brawlerName": "Jacky",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000075,
+          "brawlerName": "Mico",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Center-Stage-S31.png",
+      "numberOfResults": 23,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000057,
+          "brawlerName": "Janet",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000000,
+          "brawlerName": "Shelly",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000028,
+          "brawlerName": "Sandy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000017,
+          "brawlerName": "Tara",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Double-Swoosh-S31.png",
+      "numberOfResults": 20,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Dueling-Beetles-S31.png",
+      "numberOfResults": 23,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000016,
+          "brawlerName": "Pam",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000041,
+          "brawlerName": "Lou",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Flaring-Phoenix-S31.png",
+      "numberOfResults": 22,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Goldarm-Gulch-S31.png",
+      "numberOfResults": 22,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Hard-Rock-Mine-S31.png",
+      "numberOfResults": 22,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Hideout-S31.png",
+      "numberOfResults": 22,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000023,
+          "brawlerName": "Leon",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000046,
+          "brawlerName": "Belle",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000057,
+          "brawlerName": "Janet",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Hot-Potato-S31.png",
+      "numberOfResults": 24,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000026,
+          "brawlerName": "Bibi",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000043,
+          "brawlerName": "Edgar",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000001,
+          "brawlerName": "Colt",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000002,
+          "brawlerName": "Bull",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000044,
+          "brawlerName": "Ruffs",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Kaboom-Canyon-S31.png",
+      "numberOfResults": 23,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000050,
+          "brawlerName": "Griff",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000053,
+          "brawlerName": "Lola",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000046,
+          "brawlerName": "Belle",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000027,
+          "brawlerName": "8-Bit",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Last-Stop-S31.png",
+      "numberOfResults": 21,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000028,
+          "brawlerName": "Sandy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000017,
+          "brawlerName": "Tara",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Open-Business-S31.png",
+      "numberOfResults": 24,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000016,
+          "brawlerName": "Pam",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000041,
+          "brawlerName": "Lou",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000050,
+          "brawlerName": "Griff",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Out-In-The-Open-S31.png",
+      "numberOfResults": 21,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000023,
+          "brawlerName": "Leon",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Parallel-Plays-S31.png",
+      "numberOfResults": 22,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000026,
+          "brawlerName": "Bibi",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Penalty-Kick-S31.png",
+      "numberOfResults": 23,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Pinball-Dreams-S31.png",
+      "numberOfResults": 24,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Ring-Of-Fire-S31.png",
+      "numberOfResults": 21,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000041,
+          "brawlerName": "Lou",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Safe-Zone-S31.png",
+      "numberOfResults": 20,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000050,
+          "brawlerName": "Griff",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000053,
+          "brawlerName": "Lola",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Shooting-Star-S31.png",
+      "numberOfResults": 21,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000023,
+          "brawlerName": "Leon",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000031,
+          "brawlerName": "Mr. P",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Snake-Prairie-S31.png",
+      "numberOfResults": 22,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000017,
+          "brawlerName": "Tara",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000034,
+          "brawlerName": "Jacky",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000057,
+          "brawlerName": "Janet",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000000,
+          "brawlerName": "Shelly",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000002,
+          "brawlerName": "Bull",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Triple-Dribble-S31.png",
+      "numberOfResults": 24,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        }
+      ]
+    },
+    {
+      "imagePath": "/guides/SpenLC/Undermine-S31.png",
+      "numberOfResults": 20,
+      "hasDebugImage": true,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "section": "otherPicks"
+        }
+      ]
+    }
+  ]
+}

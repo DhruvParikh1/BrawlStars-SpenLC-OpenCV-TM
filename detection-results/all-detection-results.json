@@ -1,0 +1,6003 @@
+{
+  "lastUpdated": "2024-10-27T02:23:42.748Z",
+  "results": [
+    {
+      "imagePath": "/guides/SpenLC/Belles-Rock-S31.png",
+      "numberOfResults": 22,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.9352975487709045,
+          "location": {
+            "x": 1146,
+            "y": 232
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7872752547264099,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.7438505291938782,
+          "location": {
+            "x": 987.5,
+            "y": 230
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.8989123702049255,
+          "location": {
+            "x": 1657,
+            "y": 202.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.867210328578949,
+          "location": {
+            "x": 1822,
+            "y": 200.5
+          },
+          "scale": 0.4507978723404255,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.8476974964141846,
+          "location": {
+            "x": 1811.5,
+            "y": 382.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.7626740336418152,
+          "location": {
+            "x": 1489.5,
+            "y": 380
+          },
+          "scale": 0.26319875776397517,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.7253051996231079,
+          "location": {
+            "x": 1658.5,
+            "y": 377.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7243441939353943,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.9721977114677429,
+          "location": {
+            "x": 1467.5,
+            "y": 988.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "confidence": 0.9655067920684814,
+          "location": {
+            "x": 853.5,
+            "y": 996.5
+          },
+          "scale": 0.1853904282115869,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.9593185186386108,
+          "location": {
+            "x": 1325,
+            "y": 830
+          },
+          "scale": 0.44516129032258067,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8679186701774597,
+          "location": {
+            "x": 1769,
+            "y": 996.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "confidence": 0.858980655670166,
+          "location": {
+            "x": 1617,
+            "y": 831
+          },
+          "scale": 0.5079754601226993,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "confidence": 0.8565455675125122,
+          "location": {
+            "x": 710.5,
+            "y": 820
+          },
+          "scale": 0.25915492957746483,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.8486314415931702,
+          "location": {
+            "x": 1168,
+            "y": 834
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "confidence": 0.8478468656539917,
+          "location": {
+            "x": 1769,
+            "y": 826
+          },
+          "scale": 0.47861271676300576,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.7821286916732788,
+          "location": {
+            "x": 696.5,
+            "y": 984
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "confidence": 0.7372322082519531,
+          "location": {
+            "x": 860.5,
+            "y": 827
+          },
+          "scale": 0.4254335260115607,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "confidence": 0.7250813245773315,
+          "location": {
+            "x": 1166,
+            "y": 997.5
+          },
+          "scale": 0.4779220779220779,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.6547603011131287,
+          "location": {
+            "x": 1613,
+            "y": 989.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.6536039113998413,
+          "location": {
+            "x": 1471,
+            "y": 822.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Bridge-Too-Far-S31.png",
+      "numberOfResults": 20,
+      "results": [
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7908684015274048,
+          "location": {
+            "x": 828,
+            "y": 213
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "confidence": 0.7307114601135254,
+          "location": {
+            "x": 1154.5,
+            "y": 225
+          },
+          "scale": 0.26541471048513304,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.6791326999664307,
+          "location": {
+            "x": 1000,
+            "y": 217
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.6657631993293762,
+          "location": {
+            "x": 1153.5,
+            "y": 385
+          },
+          "scale": 0.2633540372670808,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.9813703298568726,
+          "location": {
+            "x": 1830.5,
+            "y": 205.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.9492418766021729,
+          "location": {
+            "x": 1497.5,
+            "y": 374
+          },
+          "scale": 0.4565656565656566,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.9355053901672363,
+          "location": {
+            "x": 1660.5,
+            "y": 385
+          },
+          "scale": 0.5044642857142857,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.8994566202163696,
+          "location": {
+            "x": 1819,
+            "y": 385.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7243174910545349,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9583993554115295,
+          "location": {
+            "x": 1671,
+            "y": 1006
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.9511106610298157,
+          "location": {
+            "x": 1676,
+            "y": 857.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8894078731536865,
+          "location": {
+            "x": 1015.5,
+            "y": 838
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "confidence": 0.8489854335784912,
+          "location": {
+            "x": 694,
+            "y": 994.5
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "confidence": 0.8370428681373596,
+          "location": {
+            "x": 700,
+            "y": 826
+          },
+          "scale": 0.5079754601226993,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "confidence": 0.8326378464698792,
+          "location": {
+            "x": 1159.5,
+            "y": 1015.5
+          },
+          "scale": 0.36345679012345683,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8295718431472778,
+          "location": {
+            "x": 1838.5,
+            "y": 850.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.8260961174964905,
+          "location": {
+            "x": 1335,
+            "y": 851
+          },
+          "scale": 0.24281524926686215,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.822414755821228,
+          "location": {
+            "x": 1505,
+            "y": 852
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "confidence": 0.6983446478843689,
+          "location": {
+            "x": 846,
+            "y": 997
+          },
+          "scale": 0.48705882352941177,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000053,
+          "brawlerName": "Lola",
+          "confidence": 0.671413242816925,
+          "location": {
+            "x": 1844.5,
+            "y": 1008
+          },
+          "scale": 0.44071856287425154,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Canal-Grande-S31.png",
+      "numberOfResults": 24,
+      "results": [
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "confidence": 0.8586175441741943,
+          "location": {
+            "x": 1198,
+            "y": 214.5
+          },
+          "scale": 0.29859154929577464,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.8289464712142944,
+          "location": {
+            "x": 1021.5,
+            "y": 217
+          },
+          "scale": 0.9540000000000001,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "confidence": 0.7729815244674683,
+          "location": {
+            "x": 847,
+            "y": 211.5
+          },
+          "scale": 0.4901734104046243,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.6535300612449646,
+          "location": {
+            "x": 841.5,
+            "y": 386
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000034,
+          "brawlerName": "Jacky",
+          "confidence": 0.9745978713035583,
+          "location": {
+            "x": 1826.5,
+            "y": 220
+          },
+          "scale": 0.43295019157088127,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.9669492244720459,
+          "location": {
+            "x": 1646,
+            "y": 396.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "confidence": 0.8965365886688232,
+          "location": {
+            "x": 1464.5,
+            "y": 402.5
+          },
+          "scale": 0.4679089026915114,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.8848161101341248,
+          "location": {
+            "x": 1464.5,
+            "y": 232
+          },
+          "scale": 0.31652661064425774,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7871373295783997,
+          "location": {
+            "x": 1645.5,
+            "y": 232.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000075,
+          "brawlerName": "Mico",
+          "confidence": 0.7783979177474976,
+          "location": {
+            "x": 1825,
+            "y": 390
+          },
+          "scale": 0.24145299145299148,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "confidence": 0.9681860208511353,
+          "location": {
+            "x": 1680,
+            "y": 812
+          },
+          "scale": 0.25205479452054796,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "confidence": 0.9498906135559082,
+          "location": {
+            "x": 1846.5,
+            "y": 824
+          },
+          "scale": 0.26926829268292685,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.9456873536109924,
+          "location": {
+            "x": 1220,
+            "y": 985.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.9248321652412415,
+          "location": {
+            "x": 701,
+            "y": 798
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "confidence": 0.9167494177818298,
+          "location": {
+            "x": 1530,
+            "y": 997.5
+          },
+          "scale": 0.4254335260115607,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.8910462856292725,
+          "location": {
+            "x": 1529.5,
+            "y": 821
+          },
+          "scale": 0.9,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "confidence": 0.8792729377746582,
+          "location": {
+            "x": 881,
+            "y": 809
+          },
+          "scale": 0.31846153846153846,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.8037281036376953,
+          "location": {
+            "x": 1036,
+            "y": 989.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8024485111236572,
+          "location": {
+            "x": 1046.5,
+            "y": 812.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.7918140888214111,
+          "location": {
+            "x": 702.5,
+            "y": 978
+          },
+          "scale": 0.22809917355371903,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.7915225028991699,
+          "location": {
+            "x": 1837,
+            "y": 997
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7591432929039001,
+          "location": {
+            "x": 874,
+            "y": 979.5
+          },
+          "scale": 0.4842105263157895,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.7450500130653381,
+          "location": {
+            "x": 1215.5,
+            "y": 809.5
+          },
+          "scale": 0.39569892473118284,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.6817054152488708,
+          "location": {
+            "x": 1375,
+            "y": 809.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Center-Stage-S31.png",
+      "numberOfResults": 23,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8763647079467773,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7806985974311829,
+          "location": {
+            "x": 816,
+            "y": 221
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7025442123413086,
+          "location": {
+            "x": 1189.5,
+            "y": 217
+          },
+          "scale": 0.5047619047619047,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000057,
+          "brawlerName": "Janet",
+          "confidence": 0.8473812341690063,
+          "location": {
+            "x": 1632,
+            "y": 377
+          },
+          "scale": 0.4319571865443425,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "confidence": 0.8076674938201904,
+          "location": {
+            "x": 1471.5,
+            "y": 382.5
+          },
+          "scale": 0.4185185185185185,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7872921824455261,
+          "location": {
+            "x": 1631.5,
+            "y": 208.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7563527822494507,
+          "location": {
+            "x": 1799.5,
+            "y": 226.5
+          },
+          "scale": 0.44054580896686163,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.7150222063064575,
+          "location": {
+            "x": 1796.5,
+            "y": 389.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.6948642134666443,
+          "location": {
+            "x": 1471,
+            "y": 210.5
+          },
+          "scale": 0.47983014861995754,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.9682596325874329,
+          "location": {
+            "x": 1841,
+            "y": 858
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9665870666503906,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000000,
+          "brawlerName": "Shelly",
+          "confidence": 0.9587730169296265,
+          "location": {
+            "x": 1671,
+            "y": 996.5
+          },
+          "scale": 0.44337349397590364,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000028,
+          "brawlerName": "Sandy",
+          "confidence": 0.9574615955352783,
+          "location": {
+            "x": 840.5,
+            "y": 1005.5
+          },
+          "scale": 0.4487804878048781,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9412893056869507,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.938937783241272,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8840607404708862,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.87276691198349,
+          "location": {
+            "x": 1508,
+            "y": 842
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8523768186569214,
+          "location": {
+            "x": 1006.5,
+            "y": 842
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.8487990498542786,
+          "location": {
+            "x": 851.5,
+            "y": 843.5
+          },
+          "scale": 0.4329411764705882,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8282172083854675,
+          "location": {
+            "x": 995.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.7735229134559631,
+          "location": {
+            "x": 692,
+            "y": 842
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7514091730117798,
+          "location": {
+            "x": 1172.5,
+            "y": 841
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000017,
+          "brawlerName": "Tara",
+          "confidence": 0.7071075439453125,
+          "location": {
+            "x": 1343,
+            "y": 1003.5
+          },
+          "scale": 0.4181818181818182,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Double-Swoosh-S31.png",
+      "numberOfResults": 20,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8764584064483643,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7850711941719055,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "confidence": 0.7077518105506897,
+          "location": {
+            "x": 1165,
+            "y": 216.5
+          },
+          "scale": 0.4901734104046243,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.6355505585670471,
+          "location": {
+            "x": 1165,
+            "y": 166.5
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.9533553123474121,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "confidence": 0.9344269037246704,
+          "location": {
+            "x": 1802.5,
+            "y": 392.5
+          },
+          "scale": 0.4185185185185185,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.9195548892021179,
+          "location": {
+            "x": 1818,
+            "y": 197
+          },
+          "scale": 0.284873949579832,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7883413434028625,
+          "location": {
+            "x": 1642.5,
+            "y": 214.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.7490641474723816,
+          "location": {
+            "x": 1482,
+            "y": 380.5
+          },
+          "scale": 0.47983014861995754,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9391040802001953,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9247536063194275,
+          "location": {
+            "x": 685,
+            "y": 834.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.9246755838394165,
+          "location": {
+            "x": 1173,
+            "y": 1001
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9037772417068481,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8913899064064026,
+          "location": {
+            "x": 1012.5,
+            "y": 842
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.885037362575531,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.8564875721931458,
+          "location": {
+            "x": 1340,
+            "y": 997
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8470819592475891,
+          "location": {
+            "x": 1335,
+            "y": 841
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8267776966094971,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8179723620414734,
+          "location": {
+            "x": 850,
+            "y": 837.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7886690497398376,
+          "location": {
+            "x": 1671.5,
+            "y": 997
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Dueling-Beetles-S31.png",
+      "numberOfResults": 23,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.9672490358352661,
+          "location": {
+            "x": 1169.5,
+            "y": 218
+          },
+          "scale": 0.45591397849462373,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.876456618309021,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7853474020957947,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.6865803599357605,
+          "location": {
+            "x": 1002.5,
+            "y": 385
+          },
+          "scale": 0.23360881542699727,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.9534609913825989,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000016,
+          "brawlerName": "Pam",
+          "confidence": 0.9147711992263794,
+          "location": {
+            "x": 1802,
+            "y": 387.5
+          },
+          "scale": 0.4354527938342968,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "confidence": 0.8978032469749451,
+          "location": {
+            "x": 1645,
+            "y": 386
+          },
+          "scale": 0.5263975155279503,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7876603007316589,
+          "location": {
+            "x": 1631.5,
+            "y": 208.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000041,
+          "brawlerName": "Lou",
+          "confidence": 0.6560424566268921,
+          "location": {
+            "x": 1803,
+            "y": 217
+          },
+          "scale": 0.4898843930635839,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9664654731750488,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "confidence": 0.9650570750236511,
+          "location": {
+            "x": 1504,
+            "y": 1006
+          },
+          "scale": 0.43578947368421056,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9390839338302612,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9247224926948547,
+          "location": {
+            "x": 685,
+            "y": 834.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.9043346047401428,
+          "location": {
+            "x": 852.5,
+            "y": 1003
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9023943543434143,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8849064111709595,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8681756854057312,
+          "location": {
+            "x": 1501,
+            "y": 829
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8317731618881226,
+          "location": {
+            "x": 1178,
+            "y": 846.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8268869519233704,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "confidence": 0.7944687008857727,
+          "location": {
+            "x": 864,
+            "y": 844.5
+          },
+          "scale": 0.239349593495935,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7914086580276489,
+          "location": {
+            "x": 1330,
+            "y": 997
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7439725995063782,
+          "location": {
+            "x": 1014.5,
+            "y": 833
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.7438271641731262,
+          "location": {
+            "x": 1675,
+            "y": 997
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Flaring-Phoenix-S31.png",
+      "numberOfResults": 22,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.861233115196228,
+          "location": {
+            "x": 1163,
+            "y": 404
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.787041425704956,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.7442653179168701,
+          "location": {
+            "x": 987.5,
+            "y": 230
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.6581307053565979,
+          "location": {
+            "x": 1156,
+            "y": 179.5
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.8990923762321472,
+          "location": {
+            "x": 1657,
+            "y": 202.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8673343062400818,
+          "location": {
+            "x": 1822,
+            "y": 200.5
+          },
+          "scale": 0.4507978723404255,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.8476245403289795,
+          "location": {
+            "x": 1811.5,
+            "y": 382.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.7626522779464722,
+          "location": {
+            "x": 1489.5,
+            "y": 380
+          },
+          "scale": 0.26319875776397517,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.7258782982826233,
+          "location": {
+            "x": 1658.5,
+            "y": 377.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.724326491355896,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.9719433188438416,
+          "location": {
+            "x": 1467.5,
+            "y": 988.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "confidence": 0.9657543301582336,
+          "location": {
+            "x": 853.5,
+            "y": 996.5
+          },
+          "scale": 0.1853904282115869,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.9190448522567749,
+          "location": {
+            "x": 861,
+            "y": 829
+          },
+          "scale": 0.44516129032258067,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8683904409408569,
+          "location": {
+            "x": 1769,
+            "y": 996.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "confidence": 0.8594560027122498,
+          "location": {
+            "x": 1617,
+            "y": 831
+          },
+          "scale": 0.5079754601226993,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "confidence": 0.8562803268432617,
+          "location": {
+            "x": 710.5,
+            "y": 820
+          },
+          "scale": 0.25915492957746483,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "confidence": 0.8480983972549438,
+          "location": {
+            "x": 1769,
+            "y": 826
+          },
+          "scale": 0.47861271676300576,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.8362807035446167,
+          "location": {
+            "x": 1168,
+            "y": 834
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.7824175953865051,
+          "location": {
+            "x": 696.5,
+            "y": 984
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "confidence": 0.7474520206451416,
+          "location": {
+            "x": 1328,
+            "y": 826.5
+          },
+          "scale": 0.239349593495935,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.6540635824203491,
+          "location": {
+            "x": 1471,
+            "y": 822.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.6538288593292236,
+          "location": {
+            "x": 1613,
+            "y": 989.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Goldarm-Gulch-S31.png",
+      "numberOfResults": 22,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.8606367111206055,
+          "location": {
+            "x": 1163,
+            "y": 404
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.786052405834198,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.7421332597732544,
+          "location": {
+            "x": 987.5,
+            "y": 230
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.6574863195419312,
+          "location": {
+            "x": 1157,
+            "y": 179.5
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.8989846110343933,
+          "location": {
+            "x": 1657,
+            "y": 202.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8674999475479126,
+          "location": {
+            "x": 1822,
+            "y": 200.5
+          },
+          "scale": 0.4507978723404255,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.847226083278656,
+          "location": {
+            "x": 1811.5,
+            "y": 382.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.7371541857719421,
+          "location": {
+            "x": 1498.5,
+            "y": 367
+          },
+          "scale": 0.31652661064425774,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.7247722148895264,
+          "location": {
+            "x": 1658.5,
+            "y": 377.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7201293110847473,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.9721705913543701,
+          "location": {
+            "x": 1467.5,
+            "y": 988.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "confidence": 0.9657449126243591,
+          "location": {
+            "x": 853.5,
+            "y": 996.5
+          },
+          "scale": 0.1853904282115869,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.919235348701477,
+          "location": {
+            "x": 861,
+            "y": 829
+          },
+          "scale": 0.44516129032258067,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8677293658256531,
+          "location": {
+            "x": 1769,
+            "y": 996.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "confidence": 0.8591207265853882,
+          "location": {
+            "x": 1617,
+            "y": 831
+          },
+          "scale": 0.5079754601226993,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "confidence": 0.8561093211174011,
+          "location": {
+            "x": 710.5,
+            "y": 820
+          },
+          "scale": 0.25915492957746483,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.8364449143409729,
+          "location": {
+            "x": 1168,
+            "y": 834
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "confidence": 0.8272397518157959,
+          "location": {
+            "x": 1769,
+            "y": 827
+          },
+          "scale": 0.47861271676300576,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.7819812297821045,
+          "location": {
+            "x": 696.5,
+            "y": 984
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "confidence": 0.7473479509353638,
+          "location": {
+            "x": 1328,
+            "y": 826.5
+          },
+          "scale": 0.239349593495935,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.6539884805679321,
+          "location": {
+            "x": 1613,
+            "y": 989.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.6539586782455444,
+          "location": {
+            "x": 1471,
+            "y": 822.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Hard-Rock-Mine-S31.png",
+      "numberOfResults": 22,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8767897486686707,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.8495924472808838,
+          "location": {
+            "x": 1005,
+            "y": 389
+          },
+          "scale": 0.47111111111111115,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7860453724861145,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.9533653259277344,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "confidence": 0.934563159942627,
+          "location": {
+            "x": 1802.5,
+            "y": 392.5
+          },
+          "scale": 0.4185185185185185,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.9202608466148376,
+          "location": {
+            "x": 1818,
+            "y": 197
+          },
+          "scale": 0.284873949579832,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.8059192895889282,
+          "location": {
+            "x": 1650,
+            "y": 380.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.7898016571998596,
+          "location": {
+            "x": 1482.5,
+            "y": 380
+          },
+          "scale": 0.23347107438016532,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7881237268447876,
+          "location": {
+            "x": 1642.5,
+            "y": 214.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9389094114303589,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.9249981641769409,
+          "location": {
+            "x": 1173,
+            "y": 1001
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9244204759597778,
+          "location": {
+            "x": 685,
+            "y": 834.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9053849577903748,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.904000997543335,
+          "location": {
+            "x": 852.5,
+            "y": 1003
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8845417499542236,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.868317723274231,
+          "location": {
+            "x": 1501,
+            "y": 829
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.8569369912147522,
+          "location": {
+            "x": 1483,
+            "y": 995
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.829849362373352,
+          "location": {
+            "x": 1670,
+            "y": 997
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8273580074310303,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8180277943611145,
+          "location": {
+            "x": 850,
+            "y": 837.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7455227971076965,
+          "location": {
+            "x": 1020.5,
+            "y": 833
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.7170031666755676,
+          "location": {
+            "x": 1325,
+            "y": 838.5
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Hideout-S31.png",
+      "numberOfResults": 22,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.9064297080039978,
+          "location": {
+            "x": 1193.5,
+            "y": 211
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.8294453024864197,
+          "location": {
+            "x": 1021.5,
+            "y": 217
+          },
+          "scale": 0.9540000000000001,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "confidence": 0.7730534672737122,
+          "location": {
+            "x": 847,
+            "y": 211.5
+          },
+          "scale": 0.4901734104046243,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "confidence": 0.6681315302848816,
+          "location": {
+            "x": 833,
+            "y": 392.5
+          },
+          "scale": 0.29859154929577464,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.8848989009857178,
+          "location": {
+            "x": 1464.5,
+            "y": 232
+          },
+          "scale": 0.31652661064425774,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8382088541984558,
+          "location": {
+            "x": 1821,
+            "y": 245.5
+          },
+          "scale": 0.437984496124031,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "confidence": 0.8258775472640991,
+          "location": {
+            "x": 1820.5,
+            "y": 409.5
+          },
+          "scale": 0.4354527938342968,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7873103618621826,
+          "location": {
+            "x": 1645.5,
+            "y": 232.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7463489174842834,
+          "location": {
+            "x": 1464.5,
+            "y": 410.5
+          },
+          "scale": 0.44054580896686163,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.6910571455955505,
+          "location": {
+            "x": 1641,
+            "y": 403.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.9850583076477051,
+          "location": {
+            "x": 1256,
+            "y": 989
+          },
+          "scale": 0.46912181303116146,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000023,
+          "brawlerName": "Leon",
+          "confidence": 0.9643283486366272,
+          "location": {
+            "x": 1823.5,
+            "y": 987.5
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.9247239828109741,
+          "location": {
+            "x": 701,
+            "y": 798
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.9095062017440796,
+          "location": {
+            "x": 1441.5,
+            "y": 812
+          },
+          "scale": 0.4181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "confidence": 0.8793596625328064,
+          "location": {
+            "x": 881,
+            "y": 809
+          },
+          "scale": 0.31846153846153846,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "confidence": 0.8348937630653381,
+          "location": {
+            "x": 1257.5,
+            "y": 808
+          },
+          "scale": 0.2991869918699187,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.8250531554222107,
+          "location": {
+            "x": 1822.5,
+            "y": 828
+          },
+          "scale": 0.2857142857142857,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8130730390548706,
+          "location": {
+            "x": 1055,
+            "y": 975.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.79135662317276,
+          "location": {
+            "x": 702.5,
+            "y": 978
+          },
+          "scale": 0.22809917355371903,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000046,
+          "brawlerName": "Belle",
+          "confidence": 0.7783504724502563,
+          "location": {
+            "x": 881,
+            "y": 988
+          },
+          "scale": 0.4380952380952381,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "confidence": 0.7090174555778503,
+          "location": {
+            "x": 1637,
+            "y": 820
+          },
+          "scale": 0.5079754601226993,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000057,
+          "brawlerName": "Janet",
+          "confidence": 0.6586449146270752,
+          "location": {
+            "x": 1634.5,
+            "y": 988
+          },
+          "scale": 0.42201834862385323,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Hot-Potato-S31.png",
+      "numberOfResults": 24,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.7910463213920593,
+          "location": {
+            "x": 821.5,
+            "y": 388
+          },
+          "scale": 0.45591397849462373,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7709465622901917,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "confidence": 0.7334159016609192,
+          "location": {
+            "x": 1155.5,
+            "y": 216
+          },
+          "scale": 0.26541471048513304,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "confidence": 0.7226545810699463,
+          "location": {
+            "x": 997,
+            "y": 227
+          },
+          "scale": 0.4988235294117647,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.6554953455924988,
+          "location": {
+            "x": 1155.5,
+            "y": 397
+          },
+          "scale": 0.2633540372670808,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "confidence": 0.956756591796875,
+          "location": {
+            "x": 1817,
+            "y": 403.5
+          },
+          "scale": 0.4679089026915114,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000026,
+          "brawlerName": "Bibi",
+          "confidence": 0.9404603242874146,
+          "location": {
+            "x": 1667,
+            "y": 227.5
+          },
+          "scale": 0.42803030303030304,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "confidence": 0.9327361583709717,
+          "location": {
+            "x": 1492,
+            "y": 382
+          },
+          "scale": 0.5263975155279503,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.8998311758041382,
+          "location": {
+            "x": 1827,
+            "y": 208.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.724269688129425,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000043,
+          "brawlerName": "Edgar",
+          "confidence": 0.7139759659767151,
+          "location": {
+            "x": 1651.5,
+            "y": 387.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.9418519139289856,
+          "location": {
+            "x": 1344,
+            "y": 839
+          },
+          "scale": 0.5273885350318471,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000001,
+          "brawlerName": "Colt",
+          "confidence": 0.9297629594802856,
+          "location": {
+            "x": 1682,
+            "y": 854.5
+          },
+          "scale": 0.45714285714285713,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9241872429847717,
+          "location": {
+            "x": 1186.5,
+            "y": 848
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9185969829559326,
+          "location": {
+            "x": 1671,
+            "y": 1006
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.910737931728363,
+          "location": {
+            "x": 699,
+            "y": 982
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.8852307200431824,
+          "location": {
+            "x": 1020.5,
+            "y": 829
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.8817947506904602,
+          "location": {
+            "x": 1517,
+            "y": 1005
+          },
+          "scale": 0.48705882352941177,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.8747709393501282,
+          "location": {
+            "x": 854.5,
+            "y": 986
+          },
+          "scale": 0.9,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8364072442054749,
+          "location": {
+            "x": 1340.5,
+            "y": 999.5
+          },
+          "scale": 0.4043956043956044,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.8303682208061218,
+          "location": {
+            "x": 1839,
+            "y": 847
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000002,
+          "brawlerName": "Bull",
+          "confidence": 0.8251107931137085,
+          "location": {
+            "x": 1021,
+            "y": 991.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000044,
+          "brawlerName": "Ruffs",
+          "confidence": 0.678477942943573,
+          "location": {
+            "x": 1526,
+            "y": 847
+          },
+          "scale": 0.46516853932584273,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "confidence": 0.6609995365142822,
+          "location": {
+            "x": 692,
+            "y": 811.5
+          },
+          "scale": 0.4779220779220779,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Kaboom-Canyon-S31.png",
+      "numberOfResults": 23,
+      "results": [
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7711041569709778,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "confidence": 0.7302618622779846,
+          "location": {
+            "x": 1154.5,
+            "y": 225
+          },
+          "scale": 0.26541471048513304,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "confidence": 0.7224956750869751,
+          "location": {
+            "x": 997,
+            "y": 227
+          },
+          "scale": 0.4988235294117647,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.6656895875930786,
+          "location": {
+            "x": 1155.5,
+            "y": 385
+          },
+          "scale": 0.2633540372670808,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "confidence": 0.9388976097106934,
+          "location": {
+            "x": 1494.5,
+            "y": 378
+          },
+          "scale": 0.5199386503067485,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.9355162382125854,
+          "location": {
+            "x": 1820.5,
+            "y": 222
+          },
+          "scale": 0.8560606060606061,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8587971329689026,
+          "location": {
+            "x": 1819,
+            "y": 377.5
+          },
+          "scale": 0.4507978723404255,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.7307847738265991,
+          "location": {
+            "x": 1659.5,
+            "y": 377.5
+          },
+          "scale": 0.21616451458632235,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.724372386932373,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9699156880378723,
+          "location": {
+            "x": 1671,
+            "y": 1006
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.8990517258644104,
+          "location": {
+            "x": 689.5,
+            "y": 823
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8909367918968201,
+          "location": {
+            "x": 854.5,
+            "y": 838
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.8440382480621338,
+          "location": {
+            "x": 1168,
+            "y": 997
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8367738127708435,
+          "location": {
+            "x": 1020,
+            "y": 847
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "confidence": 0.8332841396331787,
+          "location": {
+            "x": 1331.5,
+            "y": 853.5
+          },
+          "scale": 0.36345679012345683,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8271615505218506,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.815742552280426,
+          "location": {
+            "x": 685,
+            "y": 993
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "confidence": 0.8074654936790466,
+          "location": {
+            "x": 1176,
+            "y": 837.5
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.8039169907569885,
+          "location": {
+            "x": 1495.5,
+            "y": 847
+          },
+          "scale": 0.5018181818181818,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000050,
+          "brawlerName": "Griff",
+          "confidence": 0.7804698348045349,
+          "location": {
+            "x": 1671.5,
+            "y": 847.5
+          },
+          "scale": 0.4628930817610063,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000053,
+          "brawlerName": "Lola",
+          "confidence": 0.671907901763916,
+          "location": {
+            "x": 1844.5,
+            "y": 1008
+          },
+          "scale": 0.44071856287425154,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000046,
+          "brawlerName": "Belle",
+          "confidence": 0.6679773926734924,
+          "location": {
+            "x": 1835,
+            "y": 844
+          },
+          "scale": 0.4380952380952381,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000027,
+          "brawlerName": "8-Bit",
+          "confidence": 0.6505952477455139,
+          "location": {
+            "x": 1332.5,
+            "y": 998.5
+          },
+          "scale": 0.5183098591549297,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Last-Stop-S31.png",
+      "numberOfResults": 21,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.876840353012085,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7853033542633057,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.6825683116912842,
+          "location": {
+            "x": 1000.5,
+            "y": 388
+          },
+          "scale": 0.2589312977099237,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.9532610774040222,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.9200713038444519,
+          "location": {
+            "x": 1818,
+            "y": 197
+          },
+          "scale": 0.284873949579832,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8582931756973267,
+          "location": {
+            "x": 1819,
+            "y": 377.5
+          },
+          "scale": 0.4507978723404255,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7882068157196045,
+          "location": {
+            "x": 1642.5,
+            "y": 214.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.7493130564689636,
+          "location": {
+            "x": 1482,
+            "y": 380.5
+          },
+          "scale": 0.47983014861995754,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9524405598640442,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000028,
+          "brawlerName": "Sandy",
+          "confidence": 0.9484608769416809,
+          "location": {
+            "x": 1837.5,
+            "y": 860.5
+          },
+          "scale": 0.4487804878048781,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.9139596819877625,
+          "location": {
+            "x": 1329,
+            "y": 858
+          },
+          "scale": 0.46912181303116146,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.9019137024879456,
+          "location": {
+            "x": 1178.5,
+            "y": 838
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8910937309265137,
+          "location": {
+            "x": 854.5,
+            "y": 838
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000017,
+          "brawlerName": "Tara",
+          "confidence": 0.8900398015975952,
+          "location": {
+            "x": 1488,
+            "y": 997
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.8440520167350769,
+          "location": {
+            "x": 1168,
+            "y": 997
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8366982936859131,
+          "location": {
+            "x": 1020,
+            "y": 847
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8266873955726624,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8212680816650391,
+          "location": {
+            "x": 685,
+            "y": 838.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "confidence": 0.8195565342903137,
+          "location": {
+            "x": 1329.5,
+            "y": 1005
+          },
+          "scale": 0.4254335260115607,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.8005762696266174,
+          "location": {
+            "x": 1495.5,
+            "y": 846
+          },
+          "scale": 0.5018181818181818,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7887390851974487,
+          "location": {
+            "x": 1671.5,
+            "y": 997
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Open-Business-S31.png",
+      "numberOfResults": 24,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.9673038721084595,
+          "location": {
+            "x": 1169.5,
+            "y": 218
+          },
+          "scale": 0.45591397849462373,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8771467208862305,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7854896187782288,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.6868414878845215,
+          "location": {
+            "x": 1002.5,
+            "y": 385
+          },
+          "scale": 0.23360881542699727,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.9534803628921509,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000016,
+          "brawlerName": "Pam",
+          "confidence": 0.9141100645065308,
+          "location": {
+            "x": 1809,
+            "y": 387.5
+          },
+          "scale": 0.4354527938342968,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "confidence": 0.8979161977767944,
+          "location": {
+            "x": 1645,
+            "y": 386
+          },
+          "scale": 0.5263975155279503,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.787997841835022,
+          "location": {
+            "x": 1631.5,
+            "y": 208.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7370508909225464,
+          "location": {
+            "x": 1468,
+            "y": 393
+          },
+          "scale": 0.550682261208577,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000041,
+          "brawlerName": "Lou",
+          "confidence": 0.6559932231903076,
+          "location": {
+            "x": 1803,
+            "y": 217
+          },
+          "scale": 0.4898843930635839,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9664438366889954,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "confidence": 0.9650765061378479,
+          "location": {
+            "x": 1504,
+            "y": 1006
+          },
+          "scale": 0.43578947368421056,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9389525055885315,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9248449802398682,
+          "location": {
+            "x": 685,
+            "y": 834.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.9041066765785217,
+          "location": {
+            "x": 852.5,
+            "y": 1003
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9017330408096313,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8849212527275085,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8685047030448914,
+          "location": {
+            "x": 1501,
+            "y": 829
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8267349004745483,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.819415807723999,
+          "location": {
+            "x": 1012,
+            "y": 840.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7913014888763428,
+          "location": {
+            "x": 1330,
+            "y": 997
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7487137317657471,
+          "location": {
+            "x": 848.5,
+            "y": 833
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.7442600727081299,
+          "location": {
+            "x": 1675,
+            "y": 997
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000050,
+          "brawlerName": "Griff",
+          "confidence": 0.7041166424751282,
+          "location": {
+            "x": 1170.5,
+            "y": 854.5
+          },
+          "scale": 0.4628930817610063,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Out-In-The-Open-S31.png",
+      "numberOfResults": 21,
+      "results": [
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.8610663414001465,
+          "location": {
+            "x": 1163,
+            "y": 404
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7854444980621338,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.7708920836448669,
+          "location": {
+            "x": 996.5,
+            "y": 218
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.6559934020042419,
+          "location": {
+            "x": 1161,
+            "y": 176.5
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "confidence": 0.9817180037498474,
+          "location": {
+            "x": 1829.5,
+            "y": 226.5
+          },
+          "scale": 0.4354527938342968,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000023,
+          "brawlerName": "Leon",
+          "confidence": 0.9702105522155762,
+          "location": {
+            "x": 1829.5,
+            "y": 393
+          },
+          "scale": 0.4565656565656566,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8604196906089783,
+          "location": {
+            "x": 1661,
+            "y": 215.5
+          },
+          "scale": 0.4507978723404255,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.823250949382782,
+          "location": {
+            "x": 1656.5,
+            "y": 382.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.737450897693634,
+          "location": {
+            "x": 1498.5,
+            "y": 367
+          },
+          "scale": 0.31652661064425774,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7201189994812012,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.9722298383712769,
+          "location": {
+            "x": 1467.5,
+            "y": 988.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000076,
+          "brawlerName": "Kit",
+          "confidence": 0.9706427454948425,
+          "location": {
+            "x": 1617.5,
+            "y": 835.5
+          },
+          "scale": 0.1853904282115869,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8634586334228516,
+          "location": {
+            "x": 1324,
+            "y": 989.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "confidence": 0.856111466884613,
+          "location": {
+            "x": 710.5,
+            "y": 820
+          },
+          "scale": 0.25915492957746483,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.8490343689918518,
+          "location": {
+            "x": 1168,
+            "y": 834
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "confidence": 0.8181706666946411,
+          "location": {
+            "x": 1773,
+            "y": 1003.5
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.782242476940155,
+          "location": {
+            "x": 696.5,
+            "y": 984
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "confidence": 0.763672947883606,
+          "location": {
+            "x": 1165,
+            "y": 989.5
+          },
+          "scale": 0.239349593495935,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "confidence": 0.7374421954154968,
+          "location": {
+            "x": 1318,
+            "y": 837.5
+          },
+          "scale": 0.4088888888888889,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.6544821262359619,
+          "location": {
+            "x": 1613,
+            "y": 989.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.651647686958313,
+          "location": {
+            "x": 1466,
+            "y": 820.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Parallel-Plays-S31.png",
+      "numberOfResults": 22,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.876858651638031,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.8082313537597656,
+          "location": {
+            "x": 1189.5,
+            "y": 212
+          },
+          "scale": 0.23360881542699727,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7854654788970947,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.953284502029419,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.8962177038192749,
+          "location": {
+            "x": 1654.5,
+            "y": 401
+          },
+          "scale": 0.1985068072024594,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000026,
+          "brawlerName": "Bibi",
+          "confidence": 0.8213806748390198,
+          "location": {
+            "x": 1830,
+            "y": 395.5
+          },
+          "scale": 0.42803030303030304,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.787170946598053,
+          "location": {
+            "x": 1642.5,
+            "y": 210.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.7232977151870728,
+          "location": {
+            "x": 1815.5,
+            "y": 197
+          },
+          "scale": 0.31652661064425774,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9663937091827393,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.9571061730384827,
+          "location": {
+            "x": 1497.5,
+            "y": 998
+          },
+          "scale": 0.4181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9259565472602844,
+          "location": {
+            "x": 868,
+            "y": 839.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8850773572921753,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8778451085090637,
+          "location": {
+            "x": 1501,
+            "y": 829
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.827007532119751,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8198056221008301,
+          "location": {
+            "x": 1012,
+            "y": 840.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7912740111351013,
+          "location": {
+            "x": 1330,
+            "y": 997
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.7866793274879456,
+          "location": {
+            "x": 1668.5,
+            "y": 840
+          },
+          "scale": 0.2571428571428571,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.7777944803237915,
+          "location": {
+            "x": 683.5,
+            "y": 848.5
+          },
+          "scale": 0.4043956043956044,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.7731291651725769,
+          "location": {
+            "x": 857.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7511981725692749,
+          "location": {
+            "x": 1178.5,
+            "y": 837
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.7417212128639221,
+          "location": {
+            "x": 1675,
+            "y": 997
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.663669764995575,
+          "location": {
+            "x": 689,
+            "y": 997
+          },
+          "scale": 0.44516129032258067,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Penalty-Kick-S31.png",
+      "numberOfResults": 23,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.9675954580307007,
+          "location": {
+            "x": 1169.5,
+            "y": 218
+          },
+          "scale": 0.45591397849462373,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8772886395454407,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7860041856765747,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.707839846611023,
+          "location": {
+            "x": 1167.5,
+            "y": 388
+          },
+          "scale": 0.23360881542699727,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "confidence": 0.8985370397567749,
+          "location": {
+            "x": 1633,
+            "y": 373
+          },
+          "scale": 0.5263975155279503,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "confidence": 0.8394516110420227,
+          "location": {
+            "x": 1802,
+            "y": 385.5
+          },
+          "scale": 0.4679089026915114,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7879189252853394,
+          "location": {
+            "x": 1631.5,
+            "y": 208.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7565893530845642,
+          "location": {
+            "x": 1799.5,
+            "y": 226.5
+          },
+          "scale": 0.44054580896686163,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.6945620775222778,
+          "location": {
+            "x": 1471,
+            "y": 210.5
+          },
+          "scale": 0.47983014861995754,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9661807417869568,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9636128544807434,
+          "location": {
+            "x": 1503,
+            "y": 990.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9391454458236694,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9025589227676392,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8846645355224609,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8678566217422485,
+          "location": {
+            "x": 1501,
+            "y": 829
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.8491171598434448,
+          "location": {
+            "x": 851.5,
+            "y": 843.5
+          },
+          "scale": 0.4329411764705882,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8310126066207886,
+          "location": {
+            "x": 1178,
+            "y": 846.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8269450664520264,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7905625104904175,
+          "location": {
+            "x": 1330,
+            "y": 997
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.7715616822242737,
+          "location": {
+            "x": 692,
+            "y": 842
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "confidence": 0.7559742331504822,
+          "location": {
+            "x": 854,
+            "y": 988
+          },
+          "scale": 0.25205479452054796,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.7441624999046326,
+          "location": {
+            "x": 1675,
+            "y": 997
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7436743974685669,
+          "location": {
+            "x": 1014.5,
+            "y": 833
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Pinball-Dreams-S31.png",
+      "numberOfResults": 24,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.967249870300293,
+          "location": {
+            "x": 1169.5,
+            "y": 218
+          },
+          "scale": 0.45591397849462373,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8766482472419739,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7853093147277832,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.7077841758728027,
+          "location": {
+            "x": 1167.5,
+            "y": 388
+          },
+          "scale": 0.23360881542699727,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "confidence": 0.8984565734863281,
+          "location": {
+            "x": 1633,
+            "y": 373
+          },
+          "scale": 0.5263975155279503,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "confidence": 0.8390339612960815,
+          "location": {
+            "x": 1802,
+            "y": 385.5
+          },
+          "scale": 0.4679089026915114,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7882928848266602,
+          "location": {
+            "x": 1631.5,
+            "y": 208.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.756565511226654,
+          "location": {
+            "x": 1799.5,
+            "y": 226.5
+          },
+          "scale": 0.44054580896686163,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.695376455783844,
+          "location": {
+            "x": 1471,
+            "y": 210.5
+          },
+          "scale": 0.47983014861995754,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9664328694343567,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "confidence": 0.9658467769622803,
+          "location": {
+            "x": 849,
+            "y": 996
+          },
+          "scale": 0.43578947368421056,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9639151692390442,
+          "location": {
+            "x": 1503,
+            "y": 990.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "confidence": 0.9638485312461853,
+          "location": {
+            "x": 1500,
+            "y": 844.5
+          },
+          "scale": 0.4779220779220779,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9542674422264099,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9391668438911438,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8849952220916748,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.8484313488006592,
+          "location": {
+            "x": 851.5,
+            "y": 843.5
+          },
+          "scale": 0.4329411764705882,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8317598700523376,
+          "location": {
+            "x": 1178,
+            "y": 846.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8262946605682373,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7912179231643677,
+          "location": {
+            "x": 1330,
+            "y": 997
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.7733930945396423,
+          "location": {
+            "x": 692,
+            "y": 842
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "confidence": 0.7483604550361633,
+          "location": {
+            "x": 1834,
+            "y": 844
+          },
+          "scale": 0.25205479452054796,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.744047224521637,
+          "location": {
+            "x": 1014.5,
+            "y": 833
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.7439159154891968,
+          "location": {
+            "x": 1675,
+            "y": 997
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Ring-Of-Fire-S31.png",
+      "numberOfResults": 21,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8769490718841553,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.8358584642410278,
+          "location": {
+            "x": 1005,
+            "y": 406
+          },
+          "scale": 0.47111111111111115,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7854539155960083,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7048776745796204,
+          "location": {
+            "x": 1178.5,
+            "y": 218
+          },
+          "scale": 0.5047619047619047,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.9532683491706848,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.8119526505470276,
+          "location": {
+            "x": 1803,
+            "y": 384
+          },
+          "scale": 0.550682261208577,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7881996631622314,
+          "location": {
+            "x": 1642.5,
+            "y": 214.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.777783989906311,
+          "location": {
+            "x": 1645.5,
+            "y": 385
+          },
+          "scale": 0.23347107438016532,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000041,
+          "brawlerName": "Lou",
+          "confidence": 0.6563674211502075,
+          "location": {
+            "x": 1803,
+            "y": 217
+          },
+          "scale": 0.4898843930635839,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9665912389755249,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "confidence": 0.9649907946586609,
+          "location": {
+            "x": 1504,
+            "y": 1006
+          },
+          "scale": 0.43578947368421056,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9392800331115723,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9247769117355347,
+          "location": {
+            "x": 685,
+            "y": 834.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9069918990135193,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.9042836427688599,
+          "location": {
+            "x": 852.5,
+            "y": 1003
+          },
+          "scale": 0.4169971671388102,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8850928544998169,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8680625557899475,
+          "location": {
+            "x": 1501,
+            "y": 829
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.826924204826355,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8179812431335449,
+          "location": {
+            "x": 850,
+            "y": 837.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7444146871566772,
+          "location": {
+            "x": 1014.5,
+            "y": 833
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.7166922688484192,
+          "location": {
+            "x": 1325,
+            "y": 838.5
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Safe-Zone-S31.png",
+      "numberOfResults": 20,
+      "results": [
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7709546685218811,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000073,
+          "brawlerName": "Chuck",
+          "confidence": 0.730226993560791,
+          "location": {
+            "x": 1154.5,
+            "y": 225
+          },
+          "scale": 0.26541471048513304,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000039,
+          "brawlerName": "Colette",
+          "confidence": 0.7224993705749512,
+          "location": {
+            "x": 997,
+            "y": 227
+          },
+          "scale": 0.4988235294117647,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.6659244298934937,
+          "location": {
+            "x": 1155.5,
+            "y": 385
+          },
+          "scale": 0.2633540372670808,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.9805693030357361,
+          "location": {
+            "x": 1827.5,
+            "y": 222.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000036,
+          "brawlerName": "Nani",
+          "confidence": 0.9391623735427856,
+          "location": {
+            "x": 1494.5,
+            "y": 378
+          },
+          "scale": 0.5199386503067485,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.9001979827880859,
+          "location": {
+            "x": 1819,
+            "y": 385.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7244788408279419,
+          "location": {
+            "x": 1492,
+            "y": 207.5
+          },
+          "scale": 0.4956140350877193,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000050,
+          "brawlerName": "Griff",
+          "confidence": 0.62665855884552,
+          "location": {
+            "x": 1656.5,
+            "y": 384.5
+          },
+          "scale": 0.4737945492662474,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9697723984718323,
+          "location": {
+            "x": 1671,
+            "y": 1006
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.951086163520813,
+          "location": {
+            "x": 1676,
+            "y": 857.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.8991445899009705,
+          "location": {
+            "x": 689.5,
+            "y": 823
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8905466198921204,
+          "location": {
+            "x": 854.5,
+            "y": 838
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "confidence": 0.8479560017585754,
+          "location": {
+            "x": 694,
+            "y": 994.5
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000056,
+          "brawlerName": "Eve",
+          "confidence": 0.83327317237854,
+          "location": {
+            "x": 1331.5,
+            "y": 853.5
+          },
+          "scale": 0.36345679012345683,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.8287009596824646,
+          "location": {
+            "x": 1839,
+            "y": 847
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8277913928031921,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.8221379518508911,
+          "location": {
+            "x": 1505,
+            "y": 852
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.7663604021072388,
+          "location": {
+            "x": 1168.5,
+            "y": 841
+          },
+          "scale": 0.5018181818181818,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000053,
+          "brawlerName": "Lola",
+          "confidence": 0.6723693013191223,
+          "location": {
+            "x": 1844.5,
+            "y": 1008
+          },
+          "scale": 0.44071856287425154,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Shooting-Star-S31.png",
+      "numberOfResults": 21,
+      "results": [
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "confidence": 0.7722875475883484,
+          "location": {
+            "x": 846,
+            "y": 210.5
+          },
+          "scale": 0.4901734104046243,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000079,
+          "brawlerName": "Angelo",
+          "confidence": 0.6603785157203674,
+          "location": {
+            "x": 1023,
+            "y": 392.5
+          },
+          "scale": 0.29859154929577464,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.6497960686683655,
+          "location": {
+            "x": 1023,
+            "y": 205
+          },
+          "scale": 0.513939393939394,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8963783383369446,
+          "location": {
+            "x": 1644.5,
+            "y": 404
+          },
+          "scale": 0.8560606060606061,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8383621573448181,
+          "location": {
+            "x": 1821,
+            "y": 245.5
+          },
+          "scale": 0.437984496124031,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7873932123184204,
+          "location": {
+            "x": 1645.5,
+            "y": 232.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7463986873626709,
+          "location": {
+            "x": 1464.5,
+            "y": 411.5
+          },
+          "scale": 0.44054580896686163,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000037,
+          "brawlerName": "Sprout",
+          "confidence": 0.7429180145263672,
+          "location": {
+            "x": 1827,
+            "y": 419.5
+          },
+          "scale": 0.44841269841269843,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.7123945355415344,
+          "location": {
+            "x": 1464.5,
+            "y": 234.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000061,
+          "brawlerName": "Gus",
+          "confidence": 0.9850966930389404,
+          "location": {
+            "x": 1256,
+            "y": 989
+          },
+          "scale": 0.46912181303116146,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000023,
+          "brawlerName": "Leon",
+          "confidence": 0.9645525813102722,
+          "location": {
+            "x": 1823.5,
+            "y": 987.5
+          },
+          "scale": 0.4460606060606061,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000031,
+          "brawlerName": "Mr. P",
+          "confidence": 0.957779049873352,
+          "location": {
+            "x": 1634.5,
+            "y": 994
+          },
+          "scale": 0.48,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.9248186945915222,
+          "location": {
+            "x": 701,
+            "y": 798
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.9101435542106628,
+          "location": {
+            "x": 1441.5,
+            "y": 812
+          },
+          "scale": 0.4181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "confidence": 0.8795543909072876,
+          "location": {
+            "x": 881,
+            "y": 809
+          },
+          "scale": 0.31846153846153846,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000064,
+          "brawlerName": "Gray",
+          "confidence": 0.8714919090270996,
+          "location": {
+            "x": 693.5,
+            "y": 969
+          },
+          "scale": 0.2991869918699187,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.8713791370391846,
+          "location": {
+            "x": 1064,
+            "y": 820.5
+          },
+          "scale": 0.92,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000022,
+          "brawlerName": "Tick",
+          "confidence": 0.8651344776153564,
+          "location": {
+            "x": 881,
+            "y": 978
+          },
+          "scale": 0.47861271676300576,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000078,
+          "brawlerName": "Melodie",
+          "confidence": 0.8250653147697449,
+          "location": {
+            "x": 1822.5,
+            "y": 828
+          },
+          "scale": 0.2857142857142857,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8129870891571045,
+          "location": {
+            "x": 1055,
+            "y": 975.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.7517459392547607,
+          "location": {
+            "x": 1263.5,
+            "y": 823
+          },
+          "scale": 0.22809917355371903,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Snake-Prairie-S31.png",
+      "numberOfResults": 22,
+      "results": [
+        {
+          "brawlerId": 16000017,
+          "brawlerName": "Tara",
+          "confidence": 0.7458934187889099,
+          "location": {
+            "x": 1019.5,
+            "y": 219
+          },
+          "scale": 0.48181818181818187,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000024,
+          "brawlerName": "Rosa",
+          "confidence": 0.623658299446106,
+          "location": {
+            "x": 1178.5,
+            "y": 215
+          },
+          "scale": 0.47111111111111115,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000034,
+          "brawlerName": "Jacky",
+          "confidence": 0.966724693775177,
+          "location": {
+            "x": 1804.5,
+            "y": 207
+          },
+          "scale": 0.43295019157088127,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.9088919162750244,
+          "location": {
+            "x": 1464,
+            "y": 393.5
+          },
+          "scale": 0.437984496124031,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.8873606324195862,
+          "location": {
+            "x": 1464.5,
+            "y": 215
+          },
+          "scale": 0.31652661064425774,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000057,
+          "brawlerName": "Janet",
+          "confidence": 0.8421926498413086,
+          "location": {
+            "x": 1632,
+            "y": 388
+          },
+          "scale": 0.4319571865443425,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7880029082298279,
+          "location": {
+            "x": 1631.5,
+            "y": 208.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000048,
+          "brawlerName": "Grom",
+          "confidence": 0.7162420153617859,
+          "location": {
+            "x": 1796.5,
+            "y": 389.5
+          },
+          "scale": 0.41620626151012896,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000003,
+          "brawlerName": "Brock",
+          "confidence": 0.9740485548973083,
+          "location": {
+            "x": 1673,
+            "y": 997.5
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000000,
+          "brawlerName": "Shelly",
+          "confidence": 0.9557013511657715,
+          "location": {
+            "x": 852,
+            "y": 996.5
+          },
+          "scale": 0.44337349397590364,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "confidence": 0.9544538259506226,
+          "location": {
+            "x": 1005,
+            "y": 995.5
+          },
+          "scale": 0.4779220779220779,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9389428496360779,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.9309892058372498,
+          "location": {
+            "x": 1502.5,
+            "y": 832
+          },
+          "scale": 0.8363636363636364,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000002,
+          "brawlerName": "Bull",
+          "confidence": 0.9278367757797241,
+          "location": {
+            "x": 1005,
+            "y": 826.5
+          },
+          "scale": 0.43809523809523815,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000066,
+          "brawlerName": "R-T",
+          "confidence": 0.91914963722229,
+          "location": {
+            "x": 1836,
+            "y": 833
+          },
+          "scale": 0.31846153846153846,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.9048758149147034,
+          "location": {
+            "x": 1334,
+            "y": 833.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8639715909957886,
+          "location": {
+            "x": 682.5,
+            "y": 827
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.8630666136741638,
+          "location": {
+            "x": 1182.5,
+            "y": 997.5
+          },
+          "scale": 0.4329411764705882,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.8429301977157593,
+          "location": {
+            "x": 1177.5,
+            "y": 831
+          },
+          "scale": 0.5018181818181818,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.7911438345909119,
+          "location": {
+            "x": 1837,
+            "y": 997
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7538642287254333,
+          "location": {
+            "x": 852,
+            "y": 827
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.7256582379341125,
+          "location": {
+            "x": 1512,
+            "y": 995.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Triple-Dribble-S31.png",
+      "numberOfResults": 24,
+      "results": [
+        {
+          "brawlerId": 16000006,
+          "brawlerName": "Barley",
+          "confidence": 0.9673174023628235,
+          "location": {
+            "x": 1169.5,
+            "y": 218
+          },
+          "scale": 0.45591397849462373,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8774269223213196,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7857125401496887,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000077,
+          "brawlerName": "Larry & Lawrie",
+          "confidence": 0.7075851559638977,
+          "location": {
+            "x": 1167.5,
+            "y": 388
+          },
+          "scale": 0.23360881542699727,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000009,
+          "brawlerName": "Dynamike",
+          "confidence": 0.8986608982086182,
+          "location": {
+            "x": 1633,
+            "y": 373
+          },
+          "scale": 0.5263975155279503,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000010,
+          "brawlerName": "El Primo",
+          "confidence": 0.8393131494522095,
+          "location": {
+            "x": 1802,
+            "y": 385.5
+          },
+          "scale": 0.4679089026915114,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7876561284065247,
+          "location": {
+            "x": 1631.5,
+            "y": 208.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000025,
+          "brawlerName": "Carl",
+          "confidence": 0.7563645243644714,
+          "location": {
+            "x": 1799.5,
+            "y": 226.5
+          },
+          "scale": 0.44054580896686163,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.6949305534362793,
+          "location": {
+            "x": 1471,
+            "y": 210.5
+          },
+          "scale": 0.47983014861995754,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000082,
+          "brawlerName": "Berry",
+          "confidence": 0.9660333395004272,
+          "location": {
+            "x": 1167.5,
+            "y": 1002.5
+          },
+          "scale": 0.8,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000029,
+          "brawlerName": "Bea",
+          "confidence": 0.9658185243606567,
+          "location": {
+            "x": 849,
+            "y": 996
+          },
+          "scale": 0.43578947368421056,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9638581275939941,
+          "location": {
+            "x": 1503,
+            "y": 990.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000004,
+          "brawlerName": "Rico",
+          "confidence": 0.9633187055587769,
+          "location": {
+            "x": 1500,
+            "y": 844.5
+          },
+          "scale": 0.4779220779220779,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9540223479270935,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9389015436172485,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8848958611488342,
+          "location": {
+            "x": 1837,
+            "y": 1000.5
+          },
+          "scale": 0.4404255319148936,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.8489598035812378,
+          "location": {
+            "x": 851.5,
+            "y": 843.5
+          },
+          "scale": 0.4329411764705882,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8313522934913635,
+          "location": {
+            "x": 1178,
+            "y": 846.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.826867938041687,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000035,
+          "brawlerName": "Gale",
+          "confidence": 0.7914092540740967,
+          "location": {
+            "x": 1330,
+            "y": 997
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.7734114527702332,
+          "location": {
+            "x": 692,
+            "y": 842
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000067,
+          "brawlerName": "Willow",
+          "confidence": 0.7480903267860413,
+          "location": {
+            "x": 1834,
+            "y": 844
+          },
+          "scale": 0.25205479452054796,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000042,
+          "brawlerName": "Byron",
+          "confidence": 0.7439762949943542,
+          "location": {
+            "x": 1675,
+            "y": 997
+          },
+          "scale": 0.45999999999999996,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.7439690232276917,
+          "location": {
+            "x": 1014.5,
+            "y": 833
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    },
+    {
+      "imagePath": "/guides/SpenLC/Undermine-S31.png",
+      "numberOfResults": 20,
+      "results": [
+        {
+          "brawlerId": 16000085,
+          "brawlerName": "Kenji",
+          "confidence": 0.8765730261802673,
+          "location": {
+            "x": 1006.5,
+            "y": 209
+          },
+          "scale": 0.8565656565656566,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000084,
+          "brawlerName": "Moe",
+          "confidence": 0.7856263518333435,
+          "location": {
+            "x": 825,
+            "y": 216
+          },
+          "scale": 1.06,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000021,
+          "brawlerName": "Gene",
+          "confidence": 0.7128051519393921,
+          "location": {
+            "x": 1173,
+            "y": 212.5
+          },
+          "scale": 0.4901734104046243,
+          "section": "firstPick"
+        },
+        {
+          "brawlerId": 16000020,
+          "brawlerName": "Frank",
+          "confidence": 0.9535716772079468,
+          "location": {
+            "x": 1480.5,
+            "y": 219
+          },
+          "scale": 0.4431372549019608,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000081,
+          "brawlerName": "Lily",
+          "confidence": 0.9198983311653137,
+          "location": {
+            "x": 1818,
+            "y": 197
+          },
+          "scale": 0.284873949579832,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000018,
+          "brawlerName": "Darryl",
+          "confidence": 0.8587805032730103,
+          "location": {
+            "x": 1819,
+            "y": 377.5
+          },
+          "scale": 0.4507978723404255,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000011,
+          "brawlerName": "Mortis",
+          "confidence": 0.7883901000022888,
+          "location": {
+            "x": 1642.5,
+            "y": 214.5
+          },
+          "scale": 0.43047619047619046,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000049,
+          "brawlerName": "Buzz",
+          "confidence": 0.7490735650062561,
+          "location": {
+            "x": 1482,
+            "y": 380.5
+          },
+          "scale": 0.47983014861995754,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000012,
+          "brawlerName": "Crow",
+          "confidence": 0.6238900423049927,
+          "location": {
+            "x": 1645.5,
+            "y": 336
+          },
+          "scale": 0.4565656565656566,
+          "section": "sixthPick"
+        },
+        {
+          "brawlerId": 16000083,
+          "brawlerName": "Clancy",
+          "confidence": 0.9568976163864136,
+          "location": {
+            "x": 1669,
+            "y": 852
+          },
+          "scale": 0.8955752212389382,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000063,
+          "brawlerName": "Chester",
+          "confidence": 0.9388411641120911,
+          "location": {
+            "x": 685.5,
+            "y": 997
+          },
+          "scale": 0.25282442748091605,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000008,
+          "brawlerName": "Nita",
+          "confidence": 0.92472904920578,
+          "location": {
+            "x": 1173,
+            "y": 1001
+          },
+          "scale": 0.2181818181818182,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000019,
+          "brawlerName": "Penny",
+          "confidence": 0.9245909452438354,
+          "location": {
+            "x": 685,
+            "y": 834.5
+          },
+          "scale": 0.2158357771260997,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000040,
+          "brawlerName": "Amber",
+          "confidence": 0.8914819955825806,
+          "location": {
+            "x": 1012.5,
+            "y": 842
+          },
+          "scale": 0.45494505494505494,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000052,
+          "brawlerName": "Meg",
+          "confidence": 0.8573710918426514,
+          "location": {
+            "x": 1340,
+            "y": 997
+          },
+          "scale": 0.47045454545454546,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000032,
+          "brawlerName": "Max",
+          "confidence": 0.8474054932594299,
+          "location": {
+            "x": 1335,
+            "y": 841
+          },
+          "scale": 0.49285714285714294,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000047,
+          "brawlerName": "Squeak",
+          "confidence": 0.8270518779754639,
+          "location": {
+            "x": 1011.5,
+            "y": 1003.5
+          },
+          "scale": 0.42790697674418604,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000062,
+          "brawlerName": "Buster",
+          "confidence": 0.8183626532554626,
+          "location": {
+            "x": 850,
+            "y": 837.5
+          },
+          "scale": 0.21119081779053084,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000068,
+          "brawlerName": "Maisie",
+          "confidence": 0.788576602935791,
+          "location": {
+            "x": 1671.5,
+            "y": 997
+          },
+          "scale": 0.2641148325358852,
+          "section": "otherPicks"
+        },
+        {
+          "brawlerId": 16000015,
+          "brawlerName": "Piper",
+          "confidence": 0.7756385803222656,
+          "location": {
+            "x": 1837.5,
+            "y": 860
+          },
+          "scale": 0.5018181818181818,
+          "section": "otherPicks"
+        }
+      ],
+      "hasDebugImage": true
+    }
+  ]
+}
