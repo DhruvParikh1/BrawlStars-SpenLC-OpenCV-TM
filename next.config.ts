@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 // next.config.ts
 import type { Configuration as WebpackConfig } from 'webpack';
 import type { NextConfig } from 'next';

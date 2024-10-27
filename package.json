@@ -6,11 +6,13 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "setup": "make-dir detection-results"
   },
   "dependencies": {
     "@techstark/opencv-js": "^4.10.0-release.1",
     "axios": "^1.7.7",
+    "brawl": "file:",
     "fs": "^0.0.1-security",
     "next": "15.0.1",
     "node-cache": "^5.1.2",
@@ -24,6 +26,7 @@
     "@types/webpack": "^5.28.5",
     "eslint": "^8",
     "eslint-config-next": "15.0.1",
+    "make-dir-cli": "^4.0.0",
     "postcss": "^8",
     "tailwindcss": "^3.4.1",
     "typescript": "^5"

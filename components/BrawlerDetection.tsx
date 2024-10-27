@@ -1,3 +1,6 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @next/next/no-img-element */
+/* eslint-disable @typescript-eslint/no-explicit-any */
 'use client'
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
@@ -8,95 +11,123 @@ import {
 } from '../utils/imageProcessing';
 
 interface Props {
-  guideImagePath: string;
+  guideImagePaths: string[];
 }
 
-export const BrawlerDetection: React.FC<Props> = ({ guideImagePath }) => {
-  const [results, setResults] = useState<TemplateMatchResult[]>([]);
-  const [debugImage, setDebugImage] = useState<string | null>(null);
+interface SaveStatus {
+  saving: boolean;
+  error: string | null;
+  filename: string | null;
+}
+
+interface DetectionResult {
+  imagePath: string;
+  results: TemplateMatchResult[];
+  debugImagePath: string | null;
+}
+
+export const BrawlerDetection: React.FC<Props> = ({ guideImagePaths }) => {
+  const [allResults, setAllResults] = useState<DetectionResult[]>([]);
+  const [currentImageIndex, setCurrentImageIndex] = useState(0);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [saveStatus, setSaveStatus] = useState<SaveStatus>({
+    saving: false,
+    error: null,
+    filename: null
+  });
 
   useEffect(() => {
     const detectBrawlers = async () => {
       try {
         setLoading(true);
         setError(null);
-
-        // Log input prop
-        console.log('Component Props:', { guideImagePath });
-
-        console.log('Loading guide image:', guideImagePath);
-        const guideImageResponse = await axios.get(guideImagePath, {
+        setSaveStatus({ saving: false, error: null, filename: null });
+    
+        // Process current image
+        const currentPath = guideImagePaths[currentImageIndex];
+        const guideImageResponse = await axios.get(currentPath, {
           responseType: 'arraybuffer'
         });
-        console.log('Guide Image Response:', {
-          status: guideImageResponse.status,
-          headers: guideImageResponse.headers,
-          dataSize: guideImageResponse.data.length
-        });
-
         const guideImage = await preprocessImage(guideImageResponse.data);
-
-        console.log('Fetching emoji templates...');
+    
         const emojiResponse = await axios.get('/api/getBrawlerEmojis');
-        console.log('Emoji API Response:', {
-          status: emojiResponse.status,
-          dataLength: emojiResponse.data.length,
-          sampleEmoji: emojiResponse.data[0] // Show structure of first emoji
-        });
-
         const emojiData = emojiResponse.data;
-        console.log('Processing templates...');
-
+    
         const templates = await Promise.all(
-          emojiData.map(async (emoji: any) => {
-            console.log('Processing Emoji:', {
-              brawlerId: emoji.brawlerId,
-              brawlerName: emoji.brawlerName,
-              emojiDataLength: emoji.emojiData.length
-            });
-            return {
-              brawlerId: emoji.brawlerId,
-              brawlerName: emoji.brawlerName,
-              template: await preprocessImage(Buffer.from(emoji.emojiData, 'base64'))
-            };
-          })
+          emojiData.map(async (emoji: any) => ({
+            brawlerId: emoji.brawlerId,
+            brawlerName: emoji.brawlerName,
+            template: await preprocessImage(Buffer.from(emoji.emojiData, 'base64'))
+          }))
         );
 
-        console.log('Performing detection...');
-        const { results: matchResults, debugImage } = await findBrawlers(guideImage, templates);
-        console.log('Detection Results:', {
-          numberOfResults: matchResults.length,
-          results: matchResults,
-          hasDebugImage: !!debugImage
-        });
+        const { results: matchResults, debugImagePath } = await findBrawlers(guideImage, templates, currentPath);
 
-        setResults(matchResults);
-        setDebugImage(debugImage || null);
+        // Add results for current image
+        const newResult: DetectionResult = {
+          imagePath: currentPath,
+          results: matchResults,
+          debugImagePath: debugImagePath || null
+        };
+
+        setAllResults(prev => [...prev, newResult]);
+
+        // Save combined results
+        const detectionResults = {
+          timestamp: new Date().toISOString(),
+          results: [{
+            imagePath: currentPath,
+            numberOfResults: matchResults.length,
+            results: matchResults,
+            hasDebugImage: !!debugImagePath
+          }]
+        };
+
+        setSaveStatus(prev => ({ ...prev, saving: true }));
+        const saveResponse = await axios.post('/api/saveDetectionResults', detectionResults);
+        
+        if (saveResponse.data.success) {
+          setSaveStatus({
+            saving: false,
+            error: null,
+            filename: saveResponse.data.filename
+          });
+        } else {
+          throw new Error(saveResponse.data.error || 'Failed to save results');
+        }
 
         // Cleanup
         guideImage.delete();
         templates.forEach(({ template }) => template.delete());
+
+        // Move to next image if available
+        if (currentImageIndex < guideImagePaths.length - 1) {
+          setCurrentImageIndex(prev => prev + 1);
+        }
       } catch (err) {
-        console.error('Error in detectBrawlers:', {
-          error: err,
-          message: err instanceof Error ? err.message : 'An error occurred',
-          stack: err instanceof Error ? err.stack : undefined
-        });
-        setError(err instanceof Error ? err.message : 'An error occurred');
+        console.error('Error in detectBrawlers:', err);
+        const errorMessage = err instanceof Error ? err.message : 'An error occurred';
+        setError(errorMessage);
+        setSaveStatus(prev => ({
+          ...prev,
+          saving: false,
+          error: `Failed to save results: ${errorMessage}`
+        }));
       } finally {
         setLoading(false);
       }
     };
 
     detectBrawlers();
-  }, [guideImagePath]);
+  }, [currentImageIndex, guideImagePaths]);
 
-  if (loading) {
+  if (loading && currentImageIndex === 0) {
     return (
       <div className="p-4">
-        <div className="animate-pulse">Detecting brawlers...</div>
+        <div className="animate-pulse">
+          Detecting brawlers... (Image {currentImageIndex + 1} of {guideImagePaths.length})
+        </div>
       </div>
     );
   }
@@ -116,50 +147,77 @@ export const BrawlerDetection: React.FC<Props> = ({ guideImagePath }) => {
     );
   }
 
-  console.log('Rendering Results:', {
-    totalResults: results.length,
-    bySection: {
-      firstPick: results.filter(r => r.section === 'firstPick').length,
-      sixthPick: results.filter(r => r.section === 'sixthPick').length,
-      otherPicks: results.filter(r => r.section === 'otherPicks').length
-    },
-    debugImagePresent: !!debugImage
-  });
-
   return (
     <div className="p-4">
       <h2 className="text-xl font-bold mb-4">Detection Results</h2>
-      {debugImage && (
-        <div className="mb-6">
-          <h3 className="text-lg font-semibold mb-2">Debug Visualization</h3>
-          <img src={debugImage} alt="Debug visualization" className="border rounded" />
+      
+      {/* Progress Indicator */}
+      <div className="mb-4">
+        Processing image {currentImageIndex + 1} of {guideImagePaths.length}
+      </div>
+
+      {/* Save Status */}
+      {saveStatus.saving && (
+        <div className="mb-4 text-blue-600">
+          Saving results...
         </div>
       )}
-      <div className="space-y-6">
-        {(['firstPick', 'sixthPick', 'otherPicks'] as const).map((section) => (
-          <div key={section} className="border rounded p-4">
-            <h3 className="text-lg font-semibold mb-2">
-              {section === 'firstPick' ? '1st Pick' :
-               section === 'sixthPick' ? '6th Pick' : 'Other Picks'}
-            </h3>
-            <div className="flex flex-wrap gap-2">
-              {results
-                .filter((result) => result.section === section)
-                .map((result) => (
-                  <div
-                    key={`${result.brawlerId}-${result.location.x}-${result.location.y}`}
-                    className="bg-gray-100 rounded p-2"
-                  >
-                    <span className="font-medium text-black">{result.brawlerName}</span>
-                    <span className="text-sm text-gray-500 ml-2">
-                      ({Math.round(result.confidence * 100)}%)
-                    </span>
-                  </div>
-                ))}
+      {saveStatus.filename && (
+        <div className="mb-4 text-green-600">
+          Results saved to: {saveStatus.filename}
+        </div>
+      )}
+      {saveStatus.error && (
+        <div className="mb-4 text-red-500">
+          {saveStatus.error}
+        </div>
+      )}
+
+      {/* Results for each processed image */}
+      {allResults.map((result, index) => (
+        <div key={result.imagePath} className="mb-8 border-b pb-8">
+          <h3 className="text-lg font-semibold mb-4">
+            Results for {result.imagePath.split('/').pop()}
+          </h3>
+
+          {result.debugImagePath && (
+            <div className="mb-6">
+              <h4 className="text-md font-semibold mb-2">Debug Visualization</h4>
+              <img 
+                src={`/debug-image-result/${result.debugImagePath.split('/').pop()}`} 
+                alt="Debug visualization" 
+                className="border rounded" 
+              />
             </div>
+          )}
+
+          <div className="space-y-6">
+            {(['firstPick', 'sixthPick', 'otherPicks'] as const).map((section) => (
+              <div key={section} className="border rounded p-4">
+                <h4 className="text-lg font-semibold mb-2">
+                  {section === 'firstPick' ? '1st Pick' :
+                   section === 'sixthPick' ? '6th Pick' : 'Other Picks'}
+                </h4>
+                <div className="flex flex-wrap gap-2">
+                  {result.results
+                    .filter((detection) => detection.section === section)
+                    .map((detection) => (
+                      <div
+                        key={`${detection.brawlerId}-${detection.location.x}-${detection.location.y}`}
+                        className="bg-gray-100 rounded p-2"
+                      >
+                        <span className="font-medium text-black">{detection.brawlerName}</span>
+                        <span className="text-sm text-gray-500 ml-2">
+                          ({Math.round(detection.confidence * 100)}%)
+                        </span>
+                      </div>
+                    ))}
+                </div>
+              </div>
+            ))}
           </div>
-        ))}
-      </div>
+        </div>
+      ))}
     </div>
   );
 };

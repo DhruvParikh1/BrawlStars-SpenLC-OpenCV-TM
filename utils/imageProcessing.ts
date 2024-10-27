@@ -1,7 +1,8 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import cv from '@techstark/opencv-js';
 import { waitForOpenCV } from './opencv';
 
-// Keep existing interfaces and section definitions...
 export interface TemplateMatchResult {
   brawlerId: number;
   brawlerName: string;
@@ -10,6 +11,9 @@ export interface TemplateMatchResult {
   section: 'firstPick' | 'sixthPick' | 'otherPicks';
   scale: number;
 }
+
+// Add padding to section boundaries
+const SECTION_PADDING = 30; // Pixels of padding around each section
 
 export const IMAGE_SECTIONS = {
   firstPick: {
@@ -21,12 +25,12 @@ export const IMAGE_SECTIONS = {
   sixthPick: {
     x: 1385,
     y: 131,
-    width: 504,
+    width: 505,
     height: 353
   },
   otherPicks: {
     x: 590,
-    y: 755,
+    y: 742,
     width: 1329,
     height: 322
   }
@@ -42,6 +46,67 @@ export const SECTION_LIMITS = {
 const MATCH_THRESHOLD = 0.65;
 const IOU_THRESHOLD = 0.3;
 const MIN_EMOJI_SIZE = 45;
+
+async function saveBase64Image(base64Data: string, filename: string): Promise<string> {
+  try {
+    const response = await fetch('/api/saveDebugImage', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify({
+        base64Data,
+        filename,
+      }),
+    });
+
+    const data = await response.json();
+    if (!data.success) {
+      throw new Error(data.error || 'Failed to save debug image');
+    }
+
+    return data.filepath;
+  } catch (error) {
+    console.error('Error saving debug image:', error);
+    throw error;
+  }
+}
+
+function generateDebugFilename(originalPath: string): string {
+  const filename = originalPath.split('/').pop() || originalPath;
+  const lastDotIndex = filename.lastIndexOf('.');
+  const name = lastDotIndex > -1 ? filename.slice(0, lastDotIndex) : filename;
+  const ext = lastDotIndex > -1 ? filename.slice(lastDotIndex) : '.png';
+  return `${name}-debug${ext}`;
+}
+
+// Helper function to get padded bounds while respecting image boundaries
+function getPaddedBounds(
+  bounds: typeof IMAGE_SECTIONS[keyof typeof IMAGE_SECTIONS],
+  imageWidth: number,
+  imageHeight: number
+) {
+  return {
+    x: Math.max(0, bounds.x - SECTION_PADDING),
+    y: Math.max(0, bounds.y - SECTION_PADDING),
+    width: Math.min(imageWidth - bounds.x + SECTION_PADDING, bounds.width + SECTION_PADDING * 2),
+    height: Math.min(imageHeight - bounds.y + SECTION_PADDING, bounds.height + SECTION_PADDING * 2)
+  };
+}
+
+// Helper function to adjust match locations back to original coordinate space
+function adjustMatchLocation(
+  match: any,
+  paddingOffset: { x: number; y: number }
+): any {
+  return {
+    ...match,
+    location: {
+      x: match.location.x + paddingOffset.x,
+      y: match.location.y + paddingOffset.y
+    }
+  };
+}
 
 export async function preprocessImage(imageData: ArrayBuffer): Promise<any> {
   await waitForOpenCV();
@@ -118,22 +183,19 @@ function calculateIOU(box1: any, box2: any) {
   return union > 0 ? intersection / union : 0;
 }
 
-// Memory-efficient filtering
 function filterOverlappingMatches(
   matches: any[],
   templateSize: { width: number; height: number },
-  section: string
+  section: string,
+  globalBrawlers: Set<number>
 ): any[] {
   const sortedMatches = matches.sort((a, b) => b.confidence - a.confidence);
   const filteredMatches: any[] = [];
   const boxSize = templateSize.width * 1.2;
 
-  // Track unique brawlers
-  const detectedBrawlers = new Set<number>();
-
   for (const match of sortedMatches) {
-    // Skip if we've already detected this brawler in this section
-    if (detectedBrawlers.has(match.brawlerId)) {
+    // Skip if we've already detected this brawler in any section
+    if (globalBrawlers.has(match.brawlerId)) {
       continue;
     }
 
@@ -154,23 +216,21 @@ function filterOverlappingMatches(
       return calculateIOU(matchBox, existingBox) > IOU_THRESHOLD;
     });
 
-    if (!hasOverlap || match.confidence > 0.9) {
+    if (!hasOverlap || match.confidence > 0.80) {
       filteredMatches.push(match);
-      detectedBrawlers.add(match.brawlerId);
+      globalBrawlers.add(match.brawlerId);
     }
   }
 
   return filteredMatches;
 }
 
-
-// Memory-efficient template matching
 async function processTemplate(
   roi: any,
   template: any,
   brawlerId: number,
   brawlerName: string,
-  bounds: any,
+  bounds: any, // Keep this parameter for backward compatibility
   scale: number,
   threshold: number
 ): Promise<any[]> {
@@ -203,8 +263,9 @@ async function processTemplate(
               brawlerName,
               confidence,
               location: {
-                x: x + bounds.x + (newSize.width / 2),
-                y: y + bounds.y + (newSize.height / 2)
+                // Keep coordinates relative to ROI
+                x: x + resizedTemplate.cols / 2,
+                y: y + resizedTemplate.rows / 2
               },
               scale
             });
@@ -225,23 +286,35 @@ async function processTemplate(
 export async function findBrawlers(
   guideImage: any,
   emojiTemplates: Array<{ brawlerId: number; brawlerName: string; template: any }>,
+  originalImagePath: string,
   threshold = MATCH_THRESHOLD
-): Promise<{ results: TemplateMatchResult[], debugImage?: string }> {
+): Promise<{ results: TemplateMatchResult[], debugImagePath?: string }> {
   await waitForOpenCV();
   const results: TemplateMatchResult[] = [];
+  const globalBrawlers = new Set<number>();
 
   for (const [sectionName, bounds] of Object.entries(IMAGE_SECTIONS)) {
     try {
-      const roi = guideImage.roi(new cv.Rect(bounds.x, bounds.y, bounds.width, bounds.height));
+      // Get padded bounds for the section
+      const paddedBounds = getPaddedBounds(bounds, guideImage.cols, guideImage.rows);
+
+      // Create ROI with padded bounds
+      const roi = guideImage.roi(new cv.Rect(
+        paddedBounds.x,
+        paddedBounds.y,
+        paddedBounds.width,
+        paddedBounds.height
+      ));
+
       const sectionMatches: any[] = [];
 
       for (const { brawlerId, brawlerName, template } of emojiTemplates) {
         const scales = calculateScales(
           { width: template.cols, height: template.rows },
-          bounds
+          paddedBounds
         );
 
-        const sectionThreshold = threshold * (sectionName === 'otherPicks' ? 1 : 0.9);
+        const sectionThreshold = threshold * (sectionName === 'otherPicks' ? 1 : 0.95);
 
         for (const scale of scales) {
           const matches = await processTemplate(
@@ -249,11 +322,21 @@ export async function findBrawlers(
             template,
             brawlerId,
             brawlerName,
-            bounds,
+            paddedBounds,
             scale,
             sectionThreshold
           );
-          sectionMatches.push(...matches);
+          
+          // Adjust matches to account for ROI position
+          const adjustedMatches = matches.map(match => ({
+            ...match,
+            location: {
+              x: match.location.x + (paddedBounds.x - bounds.x),
+              y: match.location.y + (paddedBounds.y - bounds.y)
+            }
+          }));
+          
+          sectionMatches.push(...adjustedMatches);
         }
       }
 
@@ -264,13 +347,37 @@ export async function findBrawlers(
         height: MIN_EMOJI_SIZE
       };
 
-      const filteredMatches = filterOverlappingMatches(sectionMatches, templateSize, sectionName);
+      // Filter matches
+      const filteredMatches = filterOverlappingMatches(
+        sectionMatches,
+        templateSize,
+        sectionName,
+        globalBrawlers
+      ).filter(match => {
+        // Check if match center point falls within original section bounds
+        const adjustedX = match.location.x + bounds.x;
+        const adjustedY = match.location.y + bounds.y;
+        return (
+          adjustedX >= bounds.x &&
+          adjustedX <= bounds.x + bounds.width &&
+          adjustedY >= bounds.y &&
+          adjustedY <= bounds.y + bounds.height
+        );
+      });
+
       console.log(`[${sectionName}] After filtering: ${filteredMatches.length} matches`);
 
-      results.push(...filteredMatches.map(match => ({
+      // Add final coordinate transformation to global space
+      const globalMatches = filteredMatches.map(match => ({
         ...match,
+        location: {
+          x: match.location.x + bounds.x,
+          y: match.location.y + bounds.y
+        },
         section: sectionName as 'firstPick' | 'sixthPick' | 'otherPicks'
-      })));
+      }));
+
+      results.push(...globalMatches);
 
       roi.delete();
     } catch (error) {
@@ -280,10 +387,20 @@ export async function findBrawlers(
 
   console.log(`Final results: ${results.length} matches`);
   const debugImage = drawDebugVisuals(guideImage, results);
-  return { results, debugImage };
+  
+  // Save debug image
+  let debugImagePath: string | undefined;
+  try {
+    const filename = generateDebugFilename(originalImagePath);
+    debugImagePath = await saveBase64Image(debugImage, filename);
+    console.log(`Debug image saved to: ${debugImagePath}`);
+  } catch (error) {
+    console.error('Failed to save debug image:', error);
+  }
+
+  return { results, debugImagePath };
 }
 
-// Simplified debug visualization
 function drawDebugVisuals(
   guideImage: any,
   results: TemplateMatchResult[]
@@ -292,12 +409,23 @@ function drawDebugVisuals(
 
   // Draw section boundaries
   for (const [sectionName, bounds] of Object.entries(IMAGE_SECTIONS)) {
+    // Draw original section boundaries
     cv.rectangle(
       debugMat,
       new cv.Point(bounds.x, bounds.y),
       new cv.Point(bounds.x + bounds.width, bounds.y + bounds.height),
-      new cv.Scalar(255, 0, 0, 255),
+      new cv.Scalar(255, 0, 0, 255), // Red for original bounds
       2
+    );
+
+    // Draw padded section boundaries in a different color
+    const paddedBounds = getPaddedBounds(bounds, debugMat.cols, debugMat.rows);
+    cv.rectangle(
+      debugMat,
+      new cv.Point(paddedBounds.x, paddedBounds.y),
+      new cv.Point(paddedBounds.x + paddedBounds.width, paddedBounds.y + paddedBounds.height),
+      new cv.Scalar(0, 0, 255, 255), // Blue for padded bounds
+      1
     );
   }
 
@@ -333,3 +461,8 @@ function drawDebugVisuals(
   debugMat.delete();
   return base64;
 }
+
+export const debugUtils = {
+  saveBase64Image,
+  generateDebugFilename
+};
