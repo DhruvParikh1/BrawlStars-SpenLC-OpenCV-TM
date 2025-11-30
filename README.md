@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Brawl Stars SpenLC Template-Matching Detector
+============================================
 
-## Getting Started
+This app ingests SpenLC draft guides, runs OpenCV template matching in the browser to detect every brawler emoji, and produces both JSON exports and debug overlays that show exactly what was found.
 
-First, run the development server:
+How it works
+------------
+- Guide intake: server component `app/page.tsx` loads every image in `public/guides/SpenLC` via `utils/getGuideImages.ts` and passes the list to the client.
+- Emoji source: `/api/getBrawlerEmojis` fetches brawler emoji PNGs from the Brawlify CDN, caches them in memory (12 hours) to avoid re-fetching.
+- Template matching: `components/BrawlerDetection.tsx` streams images through `utils/imageProcessing.ts`, which pads the three board regions (1st pick, 6th pick, other picks), tries multiple scales per emoji, filters overlaps, and tags each match with its section.
+- Debug overlays: `findBrawlers` draws bounding boxes for matches and section bounds, then POSTs to `/api/saveDebugImage`, which writes PNGs to `public/debug-image-result`.
+- Results export: `components/BrawlerDetection` POSTs detections to `/api/saveDetectionResults`, which appends to `detection-results/all-detection-results.json` (full data) and `detection-results/detection-results-cleaned.json` (ids, names, sections).
 
+Run it yourself
+---------------
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# open http://localhost:3000
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Usage notes
+-----------
+- Add or replace guide images in `public/guides/SpenLC` (PNG/JPG/GIF). They auto-load on page refresh.
+- The detector processes images sequentially and will display progress plus save status for each file.
+- Network is required the first time to fetch emojis; subsequent runs use the in-memory cache until it expires.
+- Outputs accumulate; delete files in `detection-results/` or `public/debug-image-result/` if you want a clean run.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Artifacts
+---------
+- JSON: `detection-results/all-detection-results.json` (full coords/confidence) and `detection-results/detection-results-cleaned.json` (compact).
+- Debug images: `public/debug-image-result/*-debug.png` with bounding boxes and section outlines.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Included debug samples
+----------------------
+<img alt="Belles Rock debug overlay" src="./public/debug-image-result/Belles-Rock-debug.png" width="420" />
+<img alt="Hot Potato debug overlay" src="./public/debug-image-result/Hot-Potato-debug.png" width="420" />
+<img alt="Snake Prairie debug overlay" src="./public/debug-image-result/Snake-Prairie-debug.png" width="420" />
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Key files to explore
+--------------------
+- `components/BrawlerDetection.tsx` — orchestrates detection flow, progress UI, saving results.
+- `utils/imageProcessing.ts` — OpenCV preprocessing, section bounds, matching, debug rendering.
+- `app/api/getBrawlerEmojis/route.ts` — pulls and caches brawler emoji sprites from Brawlify.
+- `app/api/saveDebugImage/route.ts` — saves base64 debug overlays to `public/debug-image-result`.
+- `app/api/saveDetectionResults/route.ts` — appends run outputs to JSON artifacts.
