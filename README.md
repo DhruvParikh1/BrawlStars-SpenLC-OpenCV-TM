@@ -18,6 +18,71 @@ Process timeline (data flow)
 6) Visualize: `drawDebugVisuals` renders boxes for ROI bounds (original + padded) and each match, then `/api/saveDebugImage` persists the overlay to `public/debug-image-result`.
 7) Export: `components/BrawlerDetection.tsx` POSTs detections to `/api/saveDetectionResults`, which appends to `detection-results/all-detection-results.json` (full data) and `detection-results/detection-results-cleaned.json` (ids/names/sections).
 
+Mermaid Flow Diagram
+-----------------------
+```mermaid
+flowchart TD
+    Start([User Opens App]) --> A[app/page.tsx]
+    
+    A --> B["utils/getGuideImages.ts<br/>Load guides from public/guides/SpenLC"]
+    
+    B --> C{Network Available?}
+    
+    C -->|Yes| D["api/getBrawlerEmojis<br/>Fetch emojis from Brawlify CDN"]
+    C -->|No| E["Use Cached Emojis<br/>12-hour cache"]
+    
+    D --> F[Cache Emojis]
+    F --> G["components/BrawlerDetection.tsx<br/>Orchestrate Detection"]
+    E --> G
+    
+    G --> H["utils/imageProcessing.ts<br/>STEP 3: Preprocess"]
+    
+    H --> I["Convert to RGB Mats<br/>Define 3 ROIs with padding<br/>1st pick, 6th pick, other picks"]
+    
+    I --> J[STEP 4: Template Matching]
+    
+    J --> K["For each ROI:<br/>Resize emojis across scale pyramid<br/>Run cv.matchTemplate<br/>Apply threshold and IoU NMS"]
+    
+    K --> L[STEP 5: Localize and Label]
+    
+    L --> M["Transform to global coords<br/>Tag with section"]
+    
+    M --> N[STEP 6: Visualize]
+    
+    N --> O["drawDebugVisuals<br/>Render ROI bounds and matches"]
+    
+    O --> P["api/saveDebugImage<br/>Save to public/debug-image-result"]
+    
+    P --> Q["PNG debug overlays"]
+    
+    M --> R[STEP 7: Export]
+    
+    R --> S["api/saveDetectionResults<br/>POST detections"]
+    
+    S --> T["all-detection-results.json<br/>Full data with confidences"]
+    S --> U["detection-results-cleaned.json<br/>IDs/names/sections only"]
+    
+    T --> V[Brawlytics Integration]
+    U --> V
+    
+    V --> End(["Brawlytics applies<br/>proprietary ranking"])
+    
+    style A fill:#e1f5ff,color:#000
+    style G fill:#e1f5ff,color:#000
+    style H fill:#fff4e1,color:#000
+    style J fill:#fff4e1,color:#000
+    style L fill:#fff4e1,color:#000
+    style N fill:#fff4e1,color:#000
+    style R fill:#fff4e1,color:#000
+    style D fill:#ffe1f5,color:#000
+    style P fill:#ffe1f5,color:#000
+    style S fill:#ffe1f5,color:#000
+    style Q fill:#e1ffe1,color:#000
+    style T fill:#e1ffe1,color:#000
+    style U fill:#e1ffe1,color:#000
+    style V fill:#ffe1e1,color:#000
+```
+
 Computer-vision details
 -----------------------
 - Template source: emoji sprites from Brawlify CDN (example above) are decoded to Mats; each sprite is matched independently.
